@@ -1,0 +1,33 @@
+.headerContainer {
+  background: var(--white);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  padding: 2rem 4rem;
+  border-bottom: 1px solid var(--gray-100);
+
+  #p {
+    margin-left: 2rem;
+    padding: 0.25rem 0 0.25rem 2rem;
+    border-left: 1px solid var(--gray-100);
+  }
+
+  #span {
+    margin-left: auto;
+    text-transform: capitalize;
+  }
+
+  button {
+    margin-left: 2rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid #8257e5;
+    background: var(--white);
+    font-size: 0.8rem;
+
+    &:hover {
+      color: var(--white);
+      background: var(--dark-mode-600);
+    }
+  }
+}
