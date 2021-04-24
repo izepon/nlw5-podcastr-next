@@ -46,7 +46,7 @@ yarn start
 
 # :arrow_up_small: Deploy
 
-A aplicação foi publicada no e está disponível no link: https://nlw5-podcastr-nextjs.vercel.app/
+Realizando deploy da aplicação na Vercel e você pode testar pelo link: https://nlw5-podcastr-nextjs.vercel.app/
 
 
 
