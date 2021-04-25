@@ -20,8 +20,10 @@ Tecnologias usadas nesse desenvolvimento:
 
 - ReactJs + NextJs
 - Typescript
-- JavaScript
 - Nodejs
+- JavaScript
+- HTML
+- CSS + Sass
 
 Foi um grande desafio e meu primeiro contato com ReactJS utilizando NextJs.
 
